@@ -7,13 +7,12 @@
 
 <!-- ====== ABOUT ME ====== -->
 
-- 🔭 I'm currently working on **[your current project]**
-- 🌱 I'm currently learning **[something you're learning]**
-- 👯 I'm looking to collaborate on **[open source / side projects]**
-- 💬 Ask me about **backend architecture, APIs, and databases**
-- 📫 How to reach me: **your.email@example.com**
-- ⚡ Fun fact: **[a fun fact about you]**
-
+* 🔭 I’m currently working on **building scalable web platforms using React.js and Tailwind CSS**.
+* 🌱 I’m currently learning **more about mobile development with Flutter and Dart**.
+* 👯 I’m looking to collaborate on **minimalist, user-centric web applications and open-source React/Flutter projects**.
+* 💬 Ask me about **React.js, Flutter, UI/UX Design, Tailwind CSS, and Database Management (SQL/PostgreSQL/MongoDB)**.
+* 📫 How to reach me: **theofilus1777@gmail.com** or check out my [Portfolio](https://gavriel-portfolio.vercel.app/).
+* ⚡ Fun fact: **I strongly believe in the "less is more" philosophy for UI/UX—I will always prioritize clean typography and accessible layouts over flashy, unnecessary animations.**
 <!-- ====== SOCIAL LINKS ====== -->
 ## 🌐 Connect with me
 
