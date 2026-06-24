@@ -1,11 +1,9 @@
-<h1 align="center">Hi 👋, I'm Gavriel</h1>
+<h1 align="center">Hi 👋, I'm Gavriel Theofilus Nugroho</h1>
 <h3 align="center">Backend & Full-Stack Developer</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=gavriel22&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
-
-<!-- ====== ABOUT ME ====== -->
 
 * 🔭 I’m currently working on **building scalable web platforms using React.js and Tailwind CSS**.
 * 🌱 I’m currently learning **more about mobile development with Flutter and Dart**.
@@ -13,7 +11,7 @@
 * 💬 Ask me about **React.js, Flutter, UI/UX Design, Tailwind CSS, and Database Management (SQL/PostgreSQL/MongoDB)**.
 * 📫 How to reach me: **theofilus1777@gmail.com** or check out my [Portfolio](https://gavriel-portfolio.vercel.app/).
 * ⚡ Fun fact: **I strongly believe in the "less is more" philosophy for UI/UX—I will always prioritize clean typography and accessible layouts over flashy, unnecessary animations.**
-<!-- ====== SOCIAL LINKS ====== -->
+
 ## 🌐 Connect with me
 
 <p align="left">
@@ -26,12 +24,11 @@
   <a href="https://twitter.com/your-handle" target="_blank">
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
   </a>
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:theofilus1777@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
 
-<!-- ====== TECH STACK ====== -->
 ## 🛠️ Tech Stack
 
 ### Languages
@@ -76,7 +73,6 @@
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
 </p>
 
-<!-- ====== GITHUB STATS ====== -->
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -87,18 +83,3 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=gavriel22&theme=tokyonight" alt="GitHub streak" />
 </p>
-
-<!-- ====== TROPHIES (fun touch) ====== -->
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=gavriel22&theme=tokyonight&no-frame=true&row=1&column=7" alt="trophies" />
-</p>
-
-<!-- ====== QUOTE (fun touch) ====== -->
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="dev quote" />
-</p>
-
----
-<p align="center"><i>⭐️ From <a href="https://github.com/gavriel22">gavriel22</a></i></p>
